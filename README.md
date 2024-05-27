@@ -13,20 +13,28 @@ Les objectifs principaux du projet incluent : la création et le déploiement d'
   <img src="src/main/java/com/example/demo/Assets/Shcema.png" alt="Schema">
 </p>
 
+Ce schéma a été réalisé avec Camunda Modeler. Il contient 2 tâches utilisateur et 2 tâches système, ainsi qu'un début et une fin. Les tâches utilisateur comportent un formulaire pour vérifier l'approbation
+
 ## 📝 Camunda cockpit <a name = "cockpit"></a>
 <p align="center">
   <img src="src/main/java/com/example/demo/Assets/Cockpit.png" alt="cockpit">
 </p>
+
+Camunda cockpit est pour la surveillance et les opérations. Il permet d'accéder aux processus BPMN déployés et aux décisions DMN, et permet de rechercher parmi les instances en cours et terminées.
 
 ## 📝 Camunda Tasklist <a name = "tasklist"></a>
 <p align="center">
   <img src="src/main/java/com/example/demo/Assets/Camunda Tasklist.png" alt="tasklist">
 </p>
 
+Camunda Tasklist nous permet de travailler sur les tâches utilisateur et de les filtrer.
+
 ## 📝 User Task <a name = "usertask"></a>
 <p align="center">
   <img src="src/main/java/com/example/demo/Assets/UserTasks.png" alt="usertask">
 </p>
+
+User task est utilisée pour modéliser le travail qui doit être effectué par un acteur humain
 
 ## 🛠️ Execution <a name = "Execution"></a>
 <p align="center">
