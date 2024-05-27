@@ -15,22 +15,22 @@ Les objectifs principaux du projet incluent : la création et le déploiement d'
 
 ## 📝 Camunda cockpit <a name = "cockpit"></a>
 <p align="center">
-  <img src="Assets/Cockpit.png" alt="cockpit">
+  <img src="src/main/java/com/example/demo/Assets/Cockpit.png" alt="cockpit">
 </p>
 
 ## 📝 Camunda Tasklist <a name = "tasklist"></a>
 <p align="center">
-  <img src="Assets/Camunda Tasklist.png" alt="tasklist">
+  <img src="src/main/java/com/example/demo/Assets/Camunda Tasklist.png" alt="tasklist">
 </p>
 
 ## 📝 User Task <a name = "usertask"></a>
 <p align="center">
-  <img src="Assets/UserTasks.png" alt="usertask">
+  <img src="src/main/java/com/example/demo/Assets/UserTasks.png" alt="usertask">
 </p>
 
 ## 🛠️ Execution <a name = "Execution"></a>
 <p align="center">
-  <img src="Assets/Execution.png" alt="Execution">
+  <img src="src/main/java/com/example/demo/Assets/Execution.png" alt="Execution">
 </p>
 
 🚀 Installation <a name="installation"></a>
