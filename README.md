@@ -10,7 +10,7 @@ Les objectifs principaux du projet incluent : la création et le déploiement d'
 
 ## 📝 Schema <a name = "schema"></a>
 <p align="center">
-  <img src="src/main/java/com/example/demo/Assets/Shcema" alt="Schema">
+  <img src="src/main/java/com/example/demo/Assets/Shcema.png" alt="Schema">
 </p>
 
 ## 📝 Camunda cockpit <a name = "cockpit"></a>
