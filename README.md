@@ -10,36 +10,34 @@ Les objectifs principaux du projet incluent : la création et le déploiement d'
 
 ## 📝 Schema <a name = "schema"></a>
 <p align="center">
-  <img src="Assets/" alt="Schema">c
+  <img src="Assets/Shcema" alt="Schema">
 </p>
 
-
-
-## 📝 Camunda cockpit <a name = "schema"></a>
+## 📝 Camunda cockpit <a name = "cockpit"></a>
 <p align="center">
-  <img src="Assets/" alt="cockpit">c
+  <img src="Assets/Cockpit" alt="cockpit">
 </p>
 
-## 📝 Camunda Tasklist <a name = "schema"></a>
+## 📝 Camunda Tasklist <a name = "tasklist"></a>
 <p align="center">
-  <img src="Assets/" alt="tasklist">c
+  <img src="Assets/Camunda Tasklist" alt="tasklist">
 </p>
 
-## 📝 User Task <a name = "schema"></a>
+## 📝 User Task <a name = "usertask"></a>
 <p align="center">
-  <img src="Assets/" alt="usertask">c
+  <img src="Assets/UserTasks" alt="usertask">
 </p>
-
 
 ## 🛠️ Execution <a name = "Execution"></a>
 <p align="center">
-  <img src="Assets/" alt="Execution">c
+  <img src="Assets/Execution" alt="Execution">
 </p>
 
 🚀 Installation <a name="installation"></a>
-   -Clonez le dépôt.
-   -Ouvrez le projet dans IntelliJ IDEA.
-   -Utilisez les identifiants username:admin , password:admin
-   -Exécutez la commande Mvn clean install
-   -Exécutez l'application.
-   -Accédez à Camunda tableau de bord à l'adresse http://localhost:8080.
+
+   - Clonez le dépôt.
+   - Ouvrez le projet dans IntelliJ IDEA.
+   - Utilisez les identifiants username:admin , password:admin
+   - Exécutez la commande Mvn clean install
+   - Exécutez l'application.
+   - Accédez à Camunda tableau de bord à l'adresse http://localhost:8080.
