@@ -5,7 +5,7 @@ Camunda Demo</h1>
 
 ## 🧐 Description <a name = "description"></a>
 Cette démonstration a pour but de montrer ma compréhension de Camunda. Il s'agit du processus lorsqu'un employé souhaite partir. Il envoie une demande au serveur, puis obtient l'approbation de son manager et ensuite celle des ressources humaines (RH). Enfin, son départ est mis à jour dans le système pour indiquer qu'il peut partir. Pour cela, un schéma a été réalisé comprenant deux tâches système : l'une montrant que l'employé souhaite partir, une tâche utilisateur où la demande doit être approuvée par le manager via un formulaire, puis par les RH, et enfin une tâche système indiquant qu'il peut partir maintenant. Nous pouvons également insérer des variables pour travailler avec notre système.
-## 🎯 Project Goals <a name = "project-goals"></a>
+## 🎯 Objectifs du Projet <a name = "project-goals"></a>
 Les objectifs principaux du projet incluent : la création et le déploiement d'un modèle de processus, la liaison du schéma de processus avec le système backend et la manipulation des données selon les besoins.
 
 ## 📝 Schema <a name = "schema"></a>
@@ -13,7 +13,7 @@ Les objectifs principaux du projet incluent : la création et le déploiement d'
   <img src="src/main/java/com/example/demo/Assets/Shcema.png" alt="Schema">
 </p>
 
-Ce schéma a été réalisé avec Camunda Modeler. Il contient 2 tâches utilisateur et 2 tâches système, ainsi qu'un début et une fin. Les tâches utilisateur comportent un formulaire pour vérifier l'approbation
+Ce schéma a été réalisé avec Camunda Modeler. Il contient 2 tâches utilisateur et 2 tâches système, ainsi qu'un début et 2 fin. Les tâches utilisateur comportent un formulaire pour vérifier l'approbation
 
 ## 📝 Camunda cockpit <a name = "cockpit"></a>
 <p align="center">
